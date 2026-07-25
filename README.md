@@ -23,7 +23,7 @@ Some crazy things that have been made in Blender:
 
 
 **Effects in Across the Spiderverse**
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8d339167-6568-47b4-be6c-2f52b4349ecf" />
+<img width="640" height="360" alt="image" src="https://github.com/user-attachments/assets/8d339167-6568-47b4-be6c-2f52b4349ecf" />
 
 
 Here are some things that I have created with Blender:
