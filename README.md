@@ -17,7 +17,7 @@ Outside of this workshop there are thousands of videos and tutorials online teac
 
 Some crazy things that have been made in Blender:
 **Flow**
-<iframe width="100%" height="400" src="https://www.youtube.com/watch?v=82WW9dVbglI" title="Flow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Flow Trailer](https://img.youtube.com/vi/82WW9dVbglI/maxresdefault.jpg)](https://www.youtube.com/watch?v=82WW9dVbglI)
 
 **Effects in Across the Spiderverse**
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8d339167-6568-47b4-be6c-2f52b4349ecf" />
