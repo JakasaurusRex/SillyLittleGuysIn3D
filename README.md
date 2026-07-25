@@ -111,9 +111,13 @@ Below that there are some more various menus related to our view, creating selec
 ### Monkey Challenge!
 Using what we have learned so far, add a Monkey mesh (this should be in the list of available meshes) and apply some fun transformations to it! Try to see if you can find out how to change the color of the Monkey and we can share our Monkeys! 
 
+Heres my Monkey: 
+<img width="957" height="536" alt="Screenshot 2026-07-24 at 11 03 23 PM" src="https://github.com/user-attachments/assets/724e61fe-b25b-4a6b-9d6e-44b1d8aeeae9" />
+
 This cheet sheet is honestly a little overwhelming but might be useful if you are stuck! 
 
 <img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/016ba589-26d8-47ba-b2d9-7278a0b9ef5b" />
+
 
 
 
