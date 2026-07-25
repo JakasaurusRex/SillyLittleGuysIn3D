@@ -18,6 +18,9 @@ Outside of this workshop there are thousands of videos and tutorials online teac
 Some crazy things that have been made in Blender:
 **Flow**
 [![Flow Trailer](https://img.youtube.com/vi/82WW9dVbglI/maxresdefault.jpg)](https://www.youtube.com/watch?v=82WW9dVbglI)
+[![Flow BTS](https://img.youtube.com/vi/kK6qDsB89I/maxresdefault.jpg)](https://www.youtube.com/watch?v=kK6qDsB89I)
+
+
 
 **Effects in Across the Spiderverse**
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8d339167-6568-47b4-be6c-2f52b4349ecf" />
