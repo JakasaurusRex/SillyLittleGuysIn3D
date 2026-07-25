@@ -30,7 +30,7 @@ Here are some things that I have created with Blender:
 
 | BILAF | QuickSave | Capybaras | 
 | ------------- |------------- | -------------|
-| <video src="https://github.com/user-attachments/assets/047f0105-b533-4a37-ba19-60b46e632df1"/>  |<img width="794" height="446" alt="image" src="https://github.com/user-attachments/assets/a90c3141-8bd7-4746-81c1-f29a025f8a7d" /> | <img width="702" height="462" alt="Screenshot 2026-07-21 at 6 26 13 PM" src="https://github.com/user-attachments/assets/b0fd629d-5dbe-4f7a-ade0-682941481ba7" />|
+| <video width="400" height="400" src="https://github.com/user-attachments/assets/047f0105-b533-4a37-ba19-60b46e632df1"/>  |<img width="794" height="446" alt="image" src="https://github.com/user-attachments/assets/a90c3141-8bd7-4746-81c1-f29a025f8a7d" /> | <img width="702" height="462" alt="Screenshot 2026-07-21 at 6 26 13 PM" src="https://github.com/user-attachments/assets/b0fd629d-5dbe-4f7a-ade0-682941481ba7" />|
 
 
 
@@ -42,6 +42,9 @@ Here are some things that I have created with Blender:
 You should see this popup after you open the app! I don't normally change the settings! 
 <img width="493" height="450" alt="Screenshot 2026-07-24 at 9 51 14 PM" src="https://github.com/user-attachments/assets/68c6ce9a-f0d3-43cf-b583-edd4e2d97580" />
 
+
+## Creating Life - Learning to 3D Model
+Before we start creating, first we will learn how to get around the editor! By the way, if you ever feel like you are missing something or need to restart, you can always close and reopen Blender or create a new file! 
 
 
 
