@@ -15,9 +15,25 @@ Blender is a **free open-source** 3D modeling software! In recent years, its bec
 
 Outside of this workshop there are thousands of videos and tutorials online teaching how to create characters, animations and worlds in Blender, but we will be going over the very basics.
 
+Some crazy things that have been made in Blender:
+**Flow**
+<iframe width="100%" height="400" src="https://www.youtube.com/watch?v=82WW9dVbglI" title="Flow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Effects in Across the Spiderverse**
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8d339167-6568-47b4-be6c-2f52b4349ecf" />
+
+
 Here are some things that I have created with Blender:
 <img width="794" height="446" alt="image" src="https://github.com/user-attachments/assets/a90c3141-8bd7-4746-81c1-f29a025f8a7d" />
 <img width="702" height="462" alt="Screenshot 2026-07-21 at 6 26 13 PM" src="https://github.com/user-attachments/assets/b0fd629d-5dbe-4f7a-ade0-682941481ba7" />
+
+<video src="https://github.com/user-attachments/assets/047f0105-b533-4a37-ba19-60b46e632df1">
+
+
+
+
+
+
 
 
 
