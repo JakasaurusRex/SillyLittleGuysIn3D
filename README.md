@@ -42,10 +42,10 @@ You should see this popup after you open the app! I don't normally change the se
 <img width="493" height="450" alt="Screenshot 2026-07-24 at 9 51 14 PM" src="https://github.com/user-attachments/assets/68c6ce9a-f0d3-43cf-b583-edd4e2d97580" />
 
 
-## Creating Life - Learning to 3D Model
+## Creating Life 🌱 - Learning to 3D Model
 Before we start creating, first we will learn how to get around the editor! By the way, if you ever feel like you are missing something or need to restart, you can always close and reopen Blender or create a new file! The Blender user interface is a little daunting but we will take it all one step at a time! 
 
-### Lil Cube and the Viewport 
+### Lil Cube and the Viewport ⏹️🎥
 When we open up a file, we are always greeting with a lil cube sitting in 3D space within our viewport! Get familiar with moving the view around the space, especially if you are unfamiliar with 3D environments! If you are using a track pad, you can use two fingers to rotate around and hold shift and 2 fingers to pan, pinch to zoom! Using a mouse, you can using the middle mouse button and shift + middle mouse button to rotate and pan and scroll to zoom!
 
 In the top right corner, theres a variety of view settings. 
@@ -108,15 +108,48 @@ At the very top of the screen we have various different ways of viewing our scen
 
 Below that there are some more various menus related to our view, creating selections, adding new objects (which you can also do with the shortcut ```Shift + A```) and modifying the selected object! One cool tool in the center of the viewport header is the Proportional Editing mode, which proportionally applies edits to everything within the circle based on the distance from the center of the circle - this will become super useful later! On the right side of the header, there is some modes for how we visualize the scene, including viewport shading, which lets us see how things are colored! 
 
-### Monkey Challenge!
+Last shortcut that might be useful is ```X``` to delete!
+
+### Monkey Challenge 🐵🐵🐵 !
 Using what we have learned so far, add a Monkey mesh (this should be in the list of available meshes) and apply some fun transformations to it! Try to see if you can find out how to change the color of the Monkey and we can share our Monkeys! 
 
 Heres my Monkey: 
+
 <img width="957" height="536" alt="Screenshot 2026-07-24 at 11 03 23 PM" src="https://github.com/user-attachments/assets/724e61fe-b25b-4a6b-9d6e-44b1d8aeeae9" />
 
 This cheet sheet is honestly a little overwhelming but might be useful if you are stuck! 
 
 <img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/016ba589-26d8-47ba-b2d9-7278a0b9ef5b" />
+
+### Extrude to the moon 🌙 - Edit Mode
+
+Now we are going to learn about edit mode! This is where the power of a 3D modeling software becomes aparent! 
+
+Feel free to save your monkey, but lets go back to a blank slate with the cube!
+
+With the cube selected, press ```Tab``` to enter **Edit Mode**. You should now see something like this! 
+
+<img width="543" height="378" alt="Screenshot 2026-07-24 at 11 07 46 PM" src="https://github.com/user-attachments/assets/3cac2db5-5246-44fc-ba35-ea3ed75b5533" />
+
+We can now click on the individual corners of the cube! Clicking on one and pressing ```G```, we can move our vertex around and change the shape of the cube! If you hold ```Shift```, you can select multiple vertices. By pressing ```1, 2``` or ```3```, you can switch between ```Vertex, Edge``` and ```Face``` selection respectively, which let us transform different parts of the object. 
+
+With a face selected, I can apply multiple transformation steps like below where I moved the face using the move tool and then I rotated it! 
+<img width="406" height="402" alt="Screenshot 2026-07-24 at 11 12 38 PM" src="https://github.com/user-attachments/assets/05d275f4-e6e4-4bd4-bb14-e58f39b3f382" />
+
+With any face, edge or vertex of the cube selected, try pressing ```E``` to **Extrude**. This essentially duplicates the selection and adds it onto the geometry of the object. Now we can let our imaginations run wild! With extrusions I have exploded my cube into a prism kinda thing:
+
+<img width="575" height="470" alt="Screenshot 2026-07-24 at 11 16 19 PM" src="https://github.com/user-attachments/assets/224c54e6-729a-485e-b7ea-e1c796f95ba5" />
+
+Lets undo whatever changes you made! One last new tool is the Loop Cut tool. By pressing **Control + R** or selecting the tool from the left toolbar (in Edit Mode), we can hover over our object and place a loop along the different axes of it. This lets us subdivide our geometry into more points that we can use to manipulate it!
+
+Another random note about Blender is that when using tools, creating objects or interacting with them, ocassionally there is a tooltip in the bottom left corner that can give you so more options! Keep an eye out for that as it might have some useful options, especially when creating an object! 
+|  |
+| ------------- |
+| <video width="400" height="400" src="https://github.com/user-attachments/assets/ad5155fd-f954-43de-9bac-08f0630aec63"/>  | 
+
+
+
+
 
 
 
