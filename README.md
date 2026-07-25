@@ -2,6 +2,8 @@
 
 Hello! In this workshop, you will learn how to use Blender 3D to create silly little guys as I call them or [low-poly animals similar to Sneepsnorp3D's art style](https://www.youtube.com/@sneepsnorp3d). I will then go into some fun applications for where we can use the animals and show how we can take our animals and create a keychain with our animals dancing around on them! To preface - I am a noob at 3D modeling techniques but I know the basics and I would love to share them! 
 
+Blender is super challenging to learn, so we are going to take it slow and spend a lot of time experimenting! 
+
 Heres a brief list of the contents we will cover! 
 - Blender like the kitchen appliance - All about Blender
 - Creating life - Learning to 3D Model
@@ -10,9 +12,7 @@ Heres a brief list of the contents we will cover!
 ## Blender like the kitchen appliance  - All about Blender 🥤🍹🧊🌪️
 <img width="287" height="297" alt="Screenshot 2026-07-21 at 6 17 17 PM" src="https://github.com/user-attachments/assets/39086ab4-6945-4895-9bad-b8e9b1ed84a2" />
 
-Blender is a **free open-source** 3D modeling software! In recent years, its become widely adopted by professionals and offers comporab;le feature sets to enterprise modeling softwares! What makes Blender to great is the low barrier to entry and the ease of use - despite it being a modeling software! 
-
-Outside of this workshop there are thousands of videos and tutorials online teaching how to create characters, animations and worlds in Blender, but we will be going over the very basics.
+Blender is a **free open-source** 3D modeling software! In recent years, its become widely adopted by professionals and offers comparable feature sets to enterprise modeling softwares! What makes Blender to great is the low barrier to entry and the ease of use - despite it being a modeling software (notoriously difficult to acquire and use software)! 
 
 Some crazy things that have been made in Blender:
 **Flow**
@@ -122,15 +122,13 @@ This cheet sheet is honestly a little overwhelming but might be useful if you ar
 
 ### Extrude to the moon 🌙 - Edit Mode
 
-Now we are going to learn about edit mode! This is where the power of a 3D modeling software becomes aparent! 
-
-Feel free to save your monkey, but lets go back to a blank slate with the cube!
+This is where the power of a 3D modeling software becomes aparent! Feel free to save your monkey, but lets go back to a blank slate with the cube!
 
 With the cube selected, press ```Tab``` to enter **Edit Mode**. You should now see something like this! 
 
 <img width="543" height="378" alt="Screenshot 2026-07-24 at 11 07 46 PM" src="https://github.com/user-attachments/assets/3cac2db5-5246-44fc-ba35-ea3ed75b5533" />
 
-We can now click on the individual corners of the cube! Clicking on one and pressing ```G```, we can move our vertex around and change the shape of the cube! If you hold ```Shift```, you can select multiple vertices. By pressing ```1, 2``` or ```3```, you can switch between ```Vertex, Edge``` and ```Face``` selection respectively, which let us transform different parts of the object. 
+We can now click on the individual vertices of the cube! Clicking on one and pressing ```G```, we can move our vertex around and change the shape of the cube! If you hold ```Shift```, you can select multiple vertices. By pressing ```1, 2``` or ```3```, you can switch between ```Vertex, Edge``` and ```Face``` selection respectively, which let us transform different parts of the object. 
 
 With a face selected, I can apply multiple transformation steps like below where I moved the face using the move tool and then I rotated it! 
 
@@ -160,7 +158,7 @@ Heres a flower I made:
 
 ### Animal Jamming!
 
-Now we have enough knowledge to try to recreate a SneepSnorp3D-like animal!
+Now we have enough base knowledge to try to recreate a SneepSnorp3D-like animal!
 
 I recommend watching the first 2 minutes of SneepSnorps Capybara Video below. They move pretty fast but its useful for getting an idea of how to shape your object! Some useful tools they use a lot is Loop Cuts, Proportional Editing and the mirror modifier to avoid having to make changes 2 times!
 
@@ -168,7 +166,15 @@ I recommend watching the first 2 minutes of SneepSnorps Capybara Video below. Th
 
 Additionally, in the video SneepSnorp uses a reference. You can add a reference in Blender by pressing ```Shift + A```, selecting Image and then reference. You can adjust the opacity of the reference in the properties panel! 
 
-Feel free to use this Blend file (you can open the blend file or import it) which has a rotating camera we can use to show off our animals at the end! 
+Feel free to use [this Blend file (you can open the blend file or import it)](https://drive.google.com/file/d/1D6PIukX6t_WCfKs_mydFrvLEwcJJVdtT/view?usp=sharing) which has a rotating camera we can use to show off our animals at the end! 
+
+Some recommended animals to try making!
+- Fish / Legless animal - Easy difficulty
+- Dog / Cat / Capybara / Gorilla - Medium difficulty
+- Birds / Smaller Animals with more details - Hard difficulty
+
+
+
 
 
 
