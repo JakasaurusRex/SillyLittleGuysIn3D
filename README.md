@@ -174,9 +174,42 @@ Some recommended animals to try making!
 - Birds / Smaller Animals with more details - Hard difficulty
 
 
+## Sillyfying - Texturing and Shading
+
+Heres a brief tutorial for how we can make our animals even more silly! We already know how we can add materials to objects to change their color - but what if we want to paint on colors to our object!
+
+Thats where the UV Editing Mode comes in! Upon entering the UV Editing tab while in edit mode you should see something like the following:
+
+<img width="1512" height="830" alt="Screenshot 2026-07-25 at 12 50 28 AM" src="https://github.com/user-attachments/assets/c6efd055-94b8-4871-a878-c0f756e6dc45" />
+
+In order for the software to know where I am painting on the obejct, we need to unwrap the object into a 2D representation. This is called a UV Map. To create a UV Map, we can select all the vertices with ```A``` and then press ```U```. We have a couple of options for projecting / mapping, but I often choose Smart Project and let Blender figure it out! You can always modify the UV Map later! After doing that, you should see the 2D representation for your model appear on the left side. 
+
+<img width="630" height="586" alt="Screenshot 2026-07-25 at 12 52 59 AM" src="https://github.com/user-attachments/assets/f101b07e-11db-438d-8eb6-ab2b6ce63628" />
+
+At the top of the UV Edit view, You should be able to name your UV Image.
+
+<img width="353" height="212" alt="Screenshot 2026-07-25 at 12 54 11 AM" src="https://github.com/user-attachments/assets/39e7c1dd-ed0f-4246-bcea-fef8f26e6216" />
+
+With our new UV Image saved, you can now switch to the Texture Paint tab. Make sure your UV Image is selected at the top. Additionally, in the materials for our object, make sure to set the base part of the material to an image texture. After doing so, there will be an option for a dropdown where you will be able to select the UV Image.
+
+<img width="618" height="712" alt="Screenshot 2026-07-25 at 12 55 19 AM" src="https://github.com/user-attachments/assets/4abefaa0-bb11-4f04-939a-c4357422c5a0" />
 
 
+<img width="707" height="450" alt="Screenshot 2026-07-25 at 12 55 43 AM" src="https://github.com/user-attachments/assets/b7eb8448-0c82-4e5e-9fb6-ea3d1341a98b" />
 
+Upon painting the image using the paint tools and changing the colors on the header of the Texture Paint view, you should notice that the paint strokes cause the animal to change colors in the respective spot! 
+
+<img width="1059" height="604" alt="Screenshot 2026-07-25 at 12 56 53 AM" src="https://github.com/user-attachments/assets/e58caa28-5042-4b0e-b721-4f9390014069" />
+
+
+Want to spice up your animal with even more style?
+<img width="523" height="550" alt="Screenshot 2026-07-25 at 1 02 32 AM" src="https://github.com/user-attachments/assets/653cf1ac-0095-4f48-97aa-d314b5151f7b" />
+
+To add an outline is super simple! First create a new material with the surface set to ```Emission```. Make sure to set ```Backface Culling``` to true for ```Camera```.
+
+Next go to the modifiers tab and add solidify. Click the normals drop down and turn on ```Flip```. Lastly set the materials override to the number that the outline is in your list of the materials starting from 0 (in my case, the outline was second in my materials list so I put 1 for the material override)!!
+
+<img width="231" height="502" alt="Screenshot 2026-07-25 at 1 04 48 AM" src="https://github.com/user-attachments/assets/b92e913f-35e9-46e7-97a4-f5a09d6e68d7" />
 
 
 
