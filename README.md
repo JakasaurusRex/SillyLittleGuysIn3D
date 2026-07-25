@@ -5,8 +5,7 @@ Hello! In this workshop, you will learn how to use Blender 3D to create silly li
 Heres a brief list of the contents we will cover! 
 - Blender like the kitchen appliance - All about Blender
 - Creating life - Learning to 3D Model
-- Sillyfying- Texturing and Shading
-- Put a little boogie in it - Animating your model
+- Sillyfying - Texturing and Shading
 
 ## Blender like the kitchen appliance  - All about Blender 🥤🍹🧊🌪️
 <img width="287" height="297" alt="Screenshot 2026-07-21 at 6 17 17 PM" src="https://github.com/user-attachments/assets/39086ab4-6945-4895-9bad-b8e9b1ed84a2" />
@@ -159,11 +158,13 @@ Heres a flower I made:
 | ------------- |
 | <video width="400" height="400" src="https://github.com/user-attachments/assets/ac5f1e07-6f85-4e59-a5a0-45bc9fc1778a"/>  | 
 
+### Animal Jamming!
 
+Now we have enough knowledge to try to recreate a SneepSnorp3D-like animal!
 
+I recommend watching the first 2 minutes of SneepSnorps Capybara Video below. They move pretty fast but its useful for getting an idea of how to shape your object! Some useful tools they use a lot is Loop Cuts, Proportional Editing and the mirror modifier to avoid having to make changes 2 times! 
 
-
-
+Feel free to use this Blend file (you can open the blend file or import it) which has a rotating camera we can use to show off our animals at the end! 
 
 
 
