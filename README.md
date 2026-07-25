@@ -162,8 +162,11 @@ Heres a flower I made:
 
 Now we have enough knowledge to try to recreate a SneepSnorp3D-like animal!
 
-I recommend watching the first 2 minutes of SneepSnorps Capybara Video below. They move pretty fast but its useful for getting an idea of how to shape your object! Some useful tools they use a lot is Loop Cuts, Proportional Editing and the mirror modifier to avoid having to make changes 2 times! 
+I recommend watching the first 2 minutes of SneepSnorps Capybara Video below. They move pretty fast but its useful for getting an idea of how to shape your object! Some useful tools they use a lot is Loop Cuts, Proportional Editing and the mirror modifier to avoid having to make changes 2 times!
+
 [![SneepSnorp3D Capybara Video](https://img.youtube.com/vi/sFWlIXKcqXY/maxresdefault.jpg)](https://www.youtube.com/watch?v=sFWlIXKcqXY&t=1074s)
+
+Additionally, in the video SneepSnorp uses a reference. You can add a reference in Blender by pressing ```Shift + A```, selecting Image and then reference. You can adjust the opacity of the reference in the properties panel! 
 
 Feel free to use this Blend file (you can open the blend file or import it) which has a rotating camera we can use to show off our animals at the end! 
 
