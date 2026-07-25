@@ -114,7 +114,7 @@ Using what we have learned so far, add a Monkey mesh (this should be in the list
 
 This cheet sheet is honestly a little overwhelming but might be useful if you are stuck! 
 
-<img width="1414" height="2000" alt="image" src="https://github.com/user-attachments/assets/016ba589-26d8-47ba-b2d9-7278a0b9ef5b" />
+<img width="350" height="500" alt="image" src="https://github.com/user-attachments/assets/016ba589-26d8-47ba-b2d9-7278a0b9ef5b" />
 
 
 
