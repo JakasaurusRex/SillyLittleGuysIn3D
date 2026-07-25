@@ -5,7 +5,7 @@ Hello! In this workshop, you will learn how to use Blender 3D to create silly li
 Heres a brief list of the contents we will cover! 
 - Blender like the kitchen appliance - All about Blender
 - Creating life - Learning to 3D Model
-- Texturing and Shading
+- Sillyfying- Texturing and Shading
 - Put a little boogie in it - Animating your model
 
 ## Blender like the kitchen appliance  - All about Blender 🥤🍹🧊🌪️
@@ -46,17 +46,75 @@ You should see this popup after you open the app! I don't normally change the se
 ## Creating Life - Learning to 3D Model
 Before we start creating, first we will learn how to get around the editor! By the way, if you ever feel like you are missing something or need to restart, you can always close and reopen Blender or create a new file! The Blender user interface is a little daunting but we will take it all one step at a time! 
 
-## Lil Cube and the Viewport 
+### Lil Cube and the Viewport 
 When we open up a file, we are always greeting with a lil cube sitting in 3D space within our viewport! Get familiar with moving the view around the space, especially if you are unfamiliar with 3D environments! If you are using a track pad, you can use two fingers to rotate around and hold shift and 2 fingers to pan, pinch to zoom! Using a mouse, you can using the middle mouse button and shift + middle mouse button to rotate and pan and scroll to zoom!
 
 In the top right corner, theres a variety of view settings. 
+
 <img width="162" height="256" alt="Screenshot 2026-07-24 at 10 13 33 PM" src="https://github.com/user-attachments/assets/9e941de0-9e7d-4db6-80fc-2c19f81814cd" />
 
-On the top of this group of settings we have a little gizmo that lets us instantly jump to different camera viewpoints, corresponding to the different axes, by clicking or you can hold it down to rotate the view. Below that there is a zoom button, a pan button, a button that makes the view show what the **camera** is capturing, and a button that switches you from a perspective view to orthogonal view! Another fast shortcut for changing the view quickly is holding the tilda button. Upon doing so, you will see a radial dial of different views you can pick. These are the same views accessible by clicking on the gizmo! 
+On the top of this group of settings we have a little gizmo that lets us instantly jump to different camera viewpoints, corresponding to the different axes, by clicking or you can hold it down to rotate the view. Below that there is a zoom button, a pan button, a button that makes the view show what the **camera** is capturing, and a button that switches you from a perspective view to orthogonal view! Another fast shortcut for changing the view quickly is holding the ```~``` key. Upon doing so, you will see a radial dial of different views you can pick. These are the same views accessible by clicking on the gizmo! 
+
 <img width="544" height="405" alt="Screenshot 2026-07-24 at 10 18 42 PM" src="https://github.com/user-attachments/assets/1024f08b-8b88-4397-a9fe-18ddf6887521" />
 
+Lets move to the left toolbar!
 
+<img width="227" height="387" alt="Screenshot 2026-07-24 at 10 25 32 PM" src="https://github.com/user-attachments/assets/218696c6-bb05-4ecc-b794-1b54515a4e35" />
 
+In the order listed:
+- Select Tool
+  - This is the basic tool that lets us select any object within the viewport!
+- Cursor Tool
+  - This tool lets us control the cursor.
+  - You might notice the little crosshair in the center of the viewport, thats the cursor! Its the location objects are positioned when they are added to the scene.
+  - You can open a cursor menu by holding ```Shift + S``` which provides a bunch more options related to the cursor, including resetting it to the origin (0, 0, 0)
+- Move Tool
+  - This tool lets us move selected objects around!
+  - The arrows that appear near the object are draggable and let you move it around.
+  - Alternatively, you can also move selected objects around by pressing the G key!
+  - By pressing the ```G``` key you can also move objects by typing the amount of units to move them.
+    - <img width="438" height="40" alt="Screenshot 2026-07-24 at 10 32 05 PM" src="https://github.com/user-attachments/assets/fc444e8f-d9ee-4c94-ad64-2a921c588e9e" />
+    - At the top of your screen you should see this little popup. By typing, we can start filling out a vector that tells us how many units to move the object in each direction, X, Y, and Z!
+    - You can press ```Tab``` to switch between which axis to edit, or you can move 1 axis at a time by pressing that axis (either the ```X```, ```Y``` or ```Z``` key) and then typing in the movement amount.
+- Rotate Tool
+  - The rotate tool works similar to the move tool, but instead we have a rotatey circle now!
+  - Like the move tool, we can use the ```R``` key to rotate an object.
+  - Also like the move tool, we can type out the amount we want to the entire obejct by or the amount on any of the axes.
+- Scale Tool
+  - The scale tool also behaves similarly to the other tools. Now we have pulley squares
+  - The shortcut for the scale tool is the ```S``` key.
+  - We can also type out the amount to scale the whole object or just 1 of the specific axes.
+- Transform Tool
+  - The transform tool lets us perform any of the previous 3 tools' transformations, all in 1 mode!
+ 
+The rest of the tools in the toolbar are not as important, but feel free to mess around with them! 
+
+At the bottom of the screen, is the timeline. We won't be messing around with the timeline until the end of the workshop! But we will cover it then!
+
+On the right side of the screen, at the top is the outliner. It contains a list of all of the objects in the scene. There we can nest objects within each other, toggle their visibility and more by right clicking the objects! 
+
+<img width="286" height="151" alt="Screenshot 2026-07-24 at 10 43 33 PM" src="https://github.com/user-attachments/assets/c91ae9dd-591f-46a0-91a0-697ae21b953d" />
+
+Below that we have the properties panel. 
+
+<img width="268" height="624" alt="Screenshot 2026-07-24 at 10 43 45 PM" src="https://github.com/user-attachments/assets/593222d6-1837-46e1-9352-56627b42f0dd" />
+
+We won't go through everything, but the most important tabs for our beginner purposes are the **Objects, Modifiers, Data, and Materials** tabs! 
+
+Finally, we will speedily talk about the top panel and tabs. 
+
+<img width="1235" height="70" alt="Screenshot 2026-07-24 at 10 46 53 PM" src="https://github.com/user-attachments/assets/aabab76e-1217-4f94-aefd-a67a323b88b1" />
+
+At the very top of the screen we have various different ways of viewing our scene. For our noob purposes, we are going to be mostly using Layout Mode - for organizing our objects, Modeling Mode - for designing and creating our objects, and UV Editing and Texture Paint - for painting our objects. 
+
+Below that there are some more various menus related to our view, creating selections, adding new objects (which you can also do with the shortcut ```Shift + A```) and modifying the selected object! One cool tool in the center of the viewport header is the Proportional Editing mode, which proportionally applies edits to everything within the circle based on the distance from the center of the circle - this will become super useful later! On the right side of the header, there is some modes for how we visualize the scene, including viewport shading, which lets us see how things are colored! 
+
+### Monkey Challenge!
+Using what we have learned so far, add a Monkey mesh (this should be in the list of available meshes) and apply some fun transformations to it! Try to see if you can find out how to change the color of the Monkey and we can share our Monkeys! 
+
+This cheet sheet is honestly a little overwhelming but might be useful if you are stuck! 
+
+<img width="1414" height="2000" alt="image" src="https://github.com/user-attachments/assets/016ba589-26d8-47ba-b2d9-7278a0b9ef5b" />
 
 
 
