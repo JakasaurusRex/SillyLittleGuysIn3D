@@ -44,7 +44,18 @@ You should see this popup after you open the app! I don't normally change the se
 
 
 ## Creating Life - Learning to 3D Model
-Before we start creating, first we will learn how to get around the editor! By the way, if you ever feel like you are missing something or need to restart, you can always close and reopen Blender or create a new file! 
+Before we start creating, first we will learn how to get around the editor! By the way, if you ever feel like you are missing something or need to restart, you can always close and reopen Blender or create a new file! The Blender user interface is a little daunting but we will take it all one step at a time! 
+
+## Lil Cube and the Viewport 
+When we open up a file, we are always greeting with a lil cube sitting in 3D space within our viewport! Get familiar with moving the view around the space, especially if you are unfamiliar with 3D environments! If you are using a track pad, you can use two fingers to rotate around and hold shift and 2 fingers to pan, pinch to zoom! Using a mouse, you can using the middle mouse button and shift + middle mouse button to rotate and pan and scroll to zoom!
+
+In the top right corner, theres a variety of view settings. 
+<img width="162" height="256" alt="Screenshot 2026-07-24 at 10 13 33 PM" src="https://github.com/user-attachments/assets/9e941de0-9e7d-4db6-80fc-2c19f81814cd" />
+
+On the top of this group of settings we have a little gizmo that lets us instantly jump to different camera viewpoints, corresponding to the different axes, by clicking or you can hold it down to rotate the view. Below that there is a zoom button, a pan button, a button that makes the view show what the **camera** is capturing, and a button that switches you from a perspective view to orthogonal view! Another fast shortcut for changing the view quickly is holding the tilda button. Upon doing so, you will see a radial dial of different views you can pick. These are the same views accessible by clicking on the gizmo! 
+<img width="544" height="405" alt="Screenshot 2026-07-24 at 10 18 42 PM" src="https://github.com/user-attachments/assets/1024f08b-8b88-4397-a9fe-18ddf6887521" />
+
+
 
 
 
