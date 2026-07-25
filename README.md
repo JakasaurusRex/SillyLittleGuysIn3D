@@ -134,6 +134,7 @@ With the cube selected, press ```Tab``` to enter **Edit Mode**. You should now s
 We can now click on the individual corners of the cube! Clicking on one and pressing ```G```, we can move our vertex around and change the shape of the cube! If you hold ```Shift```, you can select multiple vertices. By pressing ```1, 2``` or ```3```, you can switch between ```Vertex, Edge``` and ```Face``` selection respectively, which let us transform different parts of the object. 
 
 With a face selected, I can apply multiple transformation steps like below where I moved the face using the move tool and then I rotated it! 
+
 <img width="406" height="402" alt="Screenshot 2026-07-24 at 11 12 38 PM" src="https://github.com/user-attachments/assets/05d275f4-e6e4-4bd4-bb14-e58f39b3f382" />
 
 With any face, edge or vertex of the cube selected, try pressing ```E``` to **Extrude**. This essentially duplicates the selection and adds it onto the geometry of the object. Now we can let our imaginations run wild! With extrusions I have exploded my cube into a prism kinda thing:
@@ -146,6 +147,23 @@ Another random note about Blender is that when using tools, creating objects or 
 |  |
 | ------------- |
 | <video width="400" height="400" src="https://github.com/user-attachments/assets/ad5155fd-f954-43de-9bac-08f0630aec63"/>  | 
+
+### Edit Mode Challenge
+
+Take some time to explore the new tools we have available in Edit mode in the toolbar! Another useful tool to check out is the Rip Tool (```V```)! Try to mess around with them and see if you can make something cool! 
+
+
+Heres a flower I made:
+
+|  |
+| ------------- |
+| <video width="400" height="400" src="https://github.com/user-attachments/assets/ac5f1e07-6f85-4e59-a5a0-45bc9fc1778a"/>  | 
+
+
+
+
+
+
 
 
 
